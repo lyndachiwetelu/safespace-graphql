@@ -1,5 +1,5 @@
-### About this Repo
-This is a graphql layer over an existing JSON REST API built using Graphql Mesh.
+### About this Repository
+This implements a graphql layer over an existing JSON REST API. It is built using Graphql Mesh.
 Good for a proof of concept for using [graphql-mesh](https://www.graphql-mesh.com/) with REST APIs.
 
 ### Prerequisites 
