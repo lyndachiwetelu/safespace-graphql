@@ -1,6 +1,6 @@
 ### About this Repo
-This is a graphql layer over an existing JSON REST API
-Good for a prrof of concept for using [graphql-mesh](https://www.graphql-mesh.com/) in REST APIs
+This is a graphql layer over an existing JSON REST API built using Graphql Mesh.
+Good for a prrof of concept for using [graphql-mesh](https://www.graphql-mesh.com/) with REST APIs.
 
 ### Prerequisites 
 - Node, yarn
