@@ -1,0 +1,31 @@
+sources:
+  - name: Safespace API
+    handler:
+      jsonSchema:
+        baseUrl: ${BASE_URL}
+        operationHeaders:
+          Content-Type: application/json
+          Authorization: Bearer {context.headers['api-token']}
+        operations:
+          - type: Query
+            field: getTherapists
+            path: therapists/list/{args.userId}
+            method: GET
+            responseSample: ./jsonSchemas/therapist/listSample.json
+          - type: Query
+            field: getSingleTherapist
+            path: therapists/{args.id}
+            method: GET
+            responseSample: ./jsonSchemas/therapist/singleSample.json
+          - type: Mutation
+            field: loginUser
+            path: /users/login
+            method: POST
+            requestSample: ./jsonSchemas/user/loginRequestSample.json
+            responseSample: ./jsonSchemas/user/loginResponseSample.json
+          - type: Mutation
+            field: signupUser
+            path: /users
+            method: POST
+            requestSample: ./jsonSchemas/user/signupRequestSample.json
+            responseSample: ./jsonSchemas/user/signupResponseSample.json

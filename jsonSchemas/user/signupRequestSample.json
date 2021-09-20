@@ -1,0 +1,13 @@
+{
+    "name": "Jenny Gemini",
+    "email": "deji@hmjioi.com",
+    "password": "somePassword<>",
+    "settings": {
+        "age": 39,
+        "hasHadTherapy": true,
+        "ailments": ["depression", "anxiety", "eating-disorder"],
+        "media": ["video", "voice", "text"],
+        "religiousTherapy": "christian",
+        "couplesTherapy": false
+    }
+}

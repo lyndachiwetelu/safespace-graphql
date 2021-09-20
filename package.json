@@ -1,0 +1,20 @@
+{
+  "name": "safespace-graphql",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/lyndachiwetelu/safespace-graphql.git",
+  "author": "Lynda Chiwetelu <lyndachiwe@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon --watch .env --watch .meshrc.yaml --ext yaml --exec 'yarn mesh dev --require ./env.js'"
+  },
+  "dependencies": {
+    "@graphql-mesh/cli": "^0.39.0",
+    "@graphql-mesh/json-schema": "^0.19.0",
+    "dotenv": "^10.0.0",
+    "graphql": "15.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}

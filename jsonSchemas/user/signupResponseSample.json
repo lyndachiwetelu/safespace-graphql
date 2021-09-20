@@ -1,0 +1,42 @@
+{
+    "id": 33,
+    "userType": "patient",
+    "name": "Jennifer Gemini",
+    "email": "jeni@gmail.com",
+    "updatedAt": "2021-09-20T14:52:31.265Z",
+    "createdAt": "2021-09-20T14:52:31.265Z",
+    "settings": {
+        "media": [
+            {
+                "mediaKey": "video",
+                "name": "Video"
+            },
+            {
+                "mediaKey": "voice",
+                "name": "Voice"
+            },
+            {
+                "mediaKey": "text",
+                "name": "Text"
+            }
+        ],
+        "ailments": [
+            {
+                "ailmentKey": "depression",
+                "name": "Depression"
+            },
+            {
+                "ailmentKey": "anxiety",
+                "name": "Anxiety"
+            },
+            {
+                "ailmentKey": "eating-disorder",
+                "name": "Anorexia, Bulimia or other eating disorders"
+            }
+        ],
+        "age": 39,
+        "hasHadTherapy": true,
+        "religiousTherapy": "christian",
+        "couplesTherapy": false
+    }
+}

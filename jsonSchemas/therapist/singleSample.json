@@ -1,0 +1,52 @@
+{
+    "id": 23,
+    "name": "Macanothony Aina",
+    "userType": "therapist",
+    "therapistSetting": {
+        "id": 32,
+        "userId": 23,
+        "ageFrom": 21,
+        "ageTo": 50,
+        "qualifications": "Md, Msc",
+        "timePerSession": "60",
+        "pricePerSession": 120,
+        "religiousTherapy": "none",
+        "couplesTherapy": false,
+        "summary": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        "imageUrl": "https://images.unsplash.com/photo-1568016002953-5827f8f30e16?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHBvdHJhaXRzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+    },
+    "ailments": [
+        {
+            "id": 348,
+            "userId": 23,
+            "ailmentKey": "eating-disorder",
+            "name": "Anorexia, Bulimia or other eating disorders"
+        },
+        {
+            "id": 349,
+            "userId": 23,
+            "ailmentKey": "depression",
+            "name": "Depression"
+        },
+        {
+            "id": 350,
+            "userId": 23,
+            "ailmentKey": "anxiety",
+            "name": "Anxiety"
+        }
+    ],
+    "media": [
+        {
+            "id": 249,
+            "userId": 23,
+            "mediaKey": "voice",
+            "name": "Voice"
+        },
+        {
+            "id": 250,
+            "userId": 23,
+            "mediaKey": "video",
+            "name": "Video"
+        }
+    ]
+}
