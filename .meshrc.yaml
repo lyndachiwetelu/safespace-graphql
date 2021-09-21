@@ -96,3 +96,6 @@ sources:
             method: POST
             requestSample: ./jsonSchemas/user/signupRequestSample.json
             responseSample: ./jsonSchemas/user/signupResponseSample.json
+
+serve:
+  hostname: 0.0.0.0

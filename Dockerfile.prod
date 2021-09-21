@@ -1,0 +1,21 @@
+FROM node:14-alpine as build
+
+WORKDIR /app
+
+COPY package.json yarn.lock /app/
+
+
+RUN yarn install --silent
+COPY . /app
+COPY .env.production /app/.env
+RUN yarn mesh build
+
+
+FROM node:14-alpine
+WORKDIR /app
+COPY package.json yarn.lock ./
+RUN yarn install --prod
+COPY --from=build /app/ .
+EXPOSE 8082
+
+CMD ["sh", "-c", "yarn mesh start --require ./env.js"]
