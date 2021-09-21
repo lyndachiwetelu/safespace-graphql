@@ -79,7 +79,7 @@ sources:
 
           - type: Mutation
             field: patchUserSettings
-            path: /{args.id}/settings
+            path: /users/{args.id}/settings
             method: PATCH
             requestSample: ./jsonSchemas/user/patchSettingsRequestSample.json
             responseSample: ./jsonSchemas/user/patchSettingsResponseSample.json
