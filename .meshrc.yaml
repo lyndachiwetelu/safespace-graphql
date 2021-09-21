@@ -17,6 +17,73 @@ sources:
             path: therapists/{args.id}
             method: GET
             responseSample: ./jsonSchemas/therapist/singleSample.json
+          - type: Query
+            field: userIsLoggedIn
+            path: users/isLoggedIn
+            method: GET
+          - type: Query
+            field: getUserSettings
+            path: /{args.id}/settings
+            method: GET
+            responseSample: ./jsonSchemas/user/settingsSample.json
+          
+          - type: Query
+            field: getUserSessions
+            path: /sessions/patient/{args.id}
+            method: GET
+            responseSample: ./jsonSchemas/session/sessionsSample.json
+
+          - type: Query
+            field: getSession
+            path: /sessions/{args.id}
+            method: GET
+            responseSample: ./jsonSchemas/session/getSessionSample.json
+          
+          - type: Query
+            field: getSessionMessages
+            path: /sessions/{args.id}/messages
+            method: GET
+            responseSample: ./jsonSchemas/session/sessionMessagesSample.json
+
+          - type: Query
+            field: saveSessionMessage
+            path: /sessions/{args.id}/messages
+            method: GET
+            requestSample: ./jsonSchemas/session/saveSessionMessageRequestSample.json
+            responseSample: ./jsonSchemas/session/saveSessionMessageResponseSample.json
+         
+          - type: Query
+            field: getAvailabilitiesForUser
+            path: /availabilities/{args.userId}
+            method: GET
+            responseSample: ./jsonSchemas/availability/availabilitiesResponseSample.json
+
+          - type: Mutation
+            field: createSession
+            path: /sessions
+            method: POST
+            requestSample: ./jsonSchemas/session/sessionRequestSample.json
+            responseSample: ./jsonSchemas/session/sessionResponseSample.json
+
+          - type: Mutation
+            field: deleteSession
+            path: /sessions/{args.id}
+            method: DELETE
+
+          - type: Mutation
+            field: updateSessionStatus
+            path: /sessions/{args.id}/status
+            method: PATCH
+            requestSample: ./jsonSchemas/session/sessionStatusRequestSample.json
+            responseSample: ./jsonSchemas/session/sessionStatusResponseSample.json
+
+          - type: Mutation
+            field: patchUserSettings
+            path: /{args.id}/settings
+            method: PATCH
+            requestSample: ./jsonSchemas/user/patchSettingsRequestSample.json
+            responseSample: ./jsonSchemas/user/patchSettingsResponseSample.json
+
           - type: Mutation
             field: loginUser
             path: /users/login

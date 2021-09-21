@@ -1,0 +1,191 @@
+[
+    {
+        "id": 1,
+        "sessionId": 64,
+        "userId": 9,
+        "message": "Hello there Mrs Therapist! How's it going 🥉",
+        "createdAt": "2021-08-05T20:34:45.184Z"
+    },
+    {
+        "id": 2,
+        "sessionId": 64,
+        "userId": 30,
+        "message": "Hi I am doing fine but I should be asking, how are you? 🤠",
+        "createdAt": "2021-08-05T20:35:56.438Z"
+    },
+    {
+        "id": 3,
+        "sessionId": 64,
+        "userId": 30,
+        "message": "How's (work) 👩🏾‍✈️ and 🚌 (school) ??",
+        "createdAt": "2021-08-05T20:42:47.411Z"
+    },
+    {
+        "id": 4,
+        "sessionId": 64,
+        "userId": 30,
+        "message": "🍎",
+        "createdAt": "2021-08-05T20:43:05.250Z"
+    },
+    {
+        "id": 5,
+        "sessionId": 64,
+        "userId": 9,
+        "message": "Hi there! It's great! work and school are both ...",
+        "createdAt": "2021-08-05T21:31:17.722Z"
+    },
+    {
+        "id": 6,
+        "sessionId": 64,
+        "userId": 9,
+        "message": "🍎",
+        "createdAt": "2021-08-05T21:32:57.849Z"
+    },
+    {
+        "id": 7,
+        "sessionId": 64,
+        "userId": 9,
+        "message": "for you! because you so lovely",
+        "createdAt": "2021-08-05T21:33:07.820Z"
+    },
+    {
+        "id": 8,
+        "sessionId": 64,
+        "userId": 30,
+        "message": "Thanks a lot!",
+        "createdAt": "2021-08-05T21:33:48.827Z"
+    },
+    {
+        "id": 9,
+        "sessionId": 64,
+        "userId": 30,
+        "message": "So let's talk about how you really are.",
+        "createdAt": "2021-08-05T21:34:00.797Z"
+    },
+    {
+        "id": 10,
+        "sessionId": 64,
+        "userId": 30,
+        "message": "Wie geht's?",
+        "createdAt": "2021-08-05T21:37:14.452Z"
+    },
+    {
+        "id": 11,
+        "sessionId": 64,
+        "userId": 30,
+        "message": "Konnen wir deutsch sprechen and schreiben?",
+        "createdAt": "2021-08-05T21:37:27.782Z"
+    },
+    {
+        "id": 12,
+        "sessionId": 64,
+        "userId": 9,
+        "message": "Ja klar",
+        "createdAt": "2021-08-05T21:37:36.641Z"
+    },
+    {
+        "id": 13,
+        "sessionId": 64,
+        "userId": 9,
+        "message": "Mir geht es gut ",
+        "createdAt": "2021-08-05T21:37:42.760Z"
+    },
+    {
+        "id": 14,
+        "sessionId": 64,
+        "userId": 9,
+        "message": "sehr gut ",
+        "createdAt": "2021-08-05T21:37:45.556Z"
+    },
+    {
+        "id": 15,
+        "sessionId": 64,
+        "userId": 9,
+        "message": "aber ich fuhle mich auch müde",
+        "createdAt": "2021-08-05T21:38:00.421Z"
+    },
+    {
+        "id": 16,
+        "sessionId": 64,
+        "userId": 30,
+        "message": "hmm",
+        "createdAt": "2021-08-05T21:43:38.812Z"
+    },
+    {
+        "id": 17,
+        "sessionId": 64,
+        "userId": 9,
+        "message": "Was?",
+        "createdAt": "2021-08-05T21:44:01.636Z"
+    },
+    {
+        "id": 18,
+        "sessionId": 64,
+        "userId": 9,
+        "message": "🤔",
+        "createdAt": "2021-08-05T21:46:27.137Z"
+    },
+    {
+        "id": 19,
+        "sessionId": 64,
+        "userId": 30,
+        "message": "Ich denke du hast so viel angst ",
+        "createdAt": "2021-08-05T21:46:58.842Z"
+    },
+    {
+        "id": 20,
+        "sessionId": 64,
+        "userId": 30,
+        "message": "über Arbeit?",
+        "createdAt": "2021-08-05T21:47:09.969Z"
+    },
+    {
+        "id": 21,
+        "sessionId": 64,
+        "userId": 30,
+        "message": "Ja?",
+        "createdAt": "2021-08-05T21:49:06.262Z"
+    },
+    {
+        "id": 22,
+        "sessionId": 64,
+        "userId": 9,
+        "message": "Ja vielleicht ein bisschen ",
+        "createdAt": "2021-08-05T21:49:17.632Z"
+    },
+    {
+        "id": 23,
+        "sessionId": 64,
+        "userId": 9,
+        "message": "Aber die aktuell problem ist, ich habe kein geld ",
+        "createdAt": "2021-08-05T21:49:31.667Z"
+    },
+    {
+        "id": 24,
+        "sessionId": 64,
+        "userId": 30,
+        "message": "Echt?",
+        "createdAt": "2021-08-05T21:49:43.254Z"
+    },
+    {
+        "id": 25,
+        "sessionId": 64,
+        "userId": 30,
+        "message": "Kein, oder ein bisschen?",
+        "createdAt": "2021-08-05T21:49:57.851Z"
+    },
+    {
+        "id": 269,
+        "sessionId": 64,
+        "userId": 9,
+        "message": "hi there!",
+        "createdAt": "2021-09-10T03:01:10.007Z"
+    },
+    {
+        "id": 270,
+        "sessionId": 64,
+        "userId": 9,
+        "message": "swiss",
+        "createdAt": "2021-09-10T03:02:21.336Z"
+    }
+]

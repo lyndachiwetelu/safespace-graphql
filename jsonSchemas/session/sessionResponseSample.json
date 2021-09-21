@@ -1,0 +1,34 @@
+{
+    "id": 67,
+    "therapist": {
+        "id": 5023,
+        "name": "Soma Savage",
+        "userType": "therapist",
+        "setting": {
+            "id": 15,
+            "userId": 5023,
+            "ageFrom": 18,
+            "ageTo": 60,
+            "qualifications": "M.D M.Sc",
+            "timePerSession": "60",
+            "pricePerSession": 120,
+            "religiousTherapy": "christian",
+            "couplesTherapy": false,
+            "summary": "Resolution possession discovered surrounded advantages has but few add. Yet walls times spoil put. Be it reserved contempt rendered smallest. Studied to passage it mention calling believe an. Get ten horrible remember pleasure two vicinity. Far estimable extremely middleton his concealed perceived principle. Any nay pleasure entrance prepared her. ",
+            "imageUrl": "https://images.unsplash.com/photo-1601289149034-2daad70d0076?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fHBvcnRyYWl0c3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
+        }
+    },
+    "day": "2021-07-09",
+    "from": "17:00",
+    "to": "18:00",
+    "requestedBy": 13,
+    "availabilityId": 53,
+    "status": "confirmed",
+    "availability": {
+        "id": 53,
+        "userId": 5023,
+        "day": "2021-07-09",
+        "from": "13:00",
+        "to": "15:00"
+    }
+}

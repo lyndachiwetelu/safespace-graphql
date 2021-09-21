@@ -1,0 +1,28 @@
+{
+    "religiousTherapy": "christian",
+    "couplesTherapy": false,
+    "media": [
+        {
+            "id": 354,
+            "mediaKey": "video",
+            "userId": 13
+        },
+        {
+            "id": 355,
+            "mediaKey": "voice",
+            "userId": 13
+        },
+        {
+            "id": 356,
+            "mediaKey": "text",
+            "userId": 13
+        }
+    ],
+    "ailments": [
+        {
+            "id": 529,
+            "ailmentKey": "depression",
+            "userId": 13
+        }
+    ]
+}

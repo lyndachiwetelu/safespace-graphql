@@ -1,0 +1,12 @@
+{
+    "id": 60,
+    "requestedBy": 9,
+    "therapist": 5017,
+    "availabilityId": 803,
+    "day": "2021-07-18",
+    "from": "15:00",
+    "to": "16:00",
+    "status": "confirmed",
+    "createdAt": "2021-07-18T13:02:54.162Z",
+    "updatedAt": "2021-07-18T13:02:54.162Z"
+}

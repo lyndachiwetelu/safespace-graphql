@@ -1,0 +1,25 @@
+{
+    "id": 1,
+    "userId": 1,
+    "age": 24,
+    "hasHadTherapy": false,
+    "religiousTherapy": "none",
+    "couplesTherapy": false,
+    "name": "Ngozi Chiwetelu",
+    "media": [
+        {
+            "id": 63,
+            "userId": 1,
+            "mediaKey": "voice",
+            "name": "Voice"
+        }
+    ],
+    "ailments": [
+        {
+            "id": 127,
+            "userId": 1,
+            "ailmentKey": "depression",
+            "name": "Depression"
+        }
+    ]
+}
