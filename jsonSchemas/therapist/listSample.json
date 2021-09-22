@@ -13,7 +13,65 @@
             "couplesTherapy": false,
             "summary": "Resolution possession discovered surrounded advantages has but few add. Yet walls times spoil put. Be it reserved contempt rendered smallest. Studied to passage it mention calling believe an. Get ten horrible remember pleasure two vicinity. Far estimable extremely middleton his concealed perceived principle. Any nay pleasure entrance prepared her.",
             "imageUrl": "https://images.unsplash.com/photo-1572631382901-cf1a0a6087cb?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHBvcnRyYWl0c3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
-        }
+        },
+        "media": [
+            {
+                "id": 25,
+                "userId": 5019,
+                "mediaKey": "video",
+                "name": "Video"
+            },
+            {
+                "id": 26,
+                "userId": 5019,
+                "mediaKey": "voice",
+                "name": "Voice"
+            }
+        ],
+        "ailments": [
+            {
+                "id": 43,
+                "userId": 5019,
+                "ailmentKey": "depression",
+                "name": "Depression"
+            },
+            {
+                "id": 44,
+                "userId": 5019,
+                "ailmentKey": "anxiety",
+                "name": "Anxiety"
+            },
+            {
+                "id": 45,
+                "userId": 5019,
+                "ailmentKey": "ptsd",
+                "name": "Posttraumatic Stress Disorder (PTSD)"
+            },
+            {
+                "id": 46,
+                "userId": 5019,
+                "ailmentKey": "bipolar",
+                "name": "Bipolar Disorder"
+            },
+            {
+                "id": 47,
+                "userId": 5019,
+                "ailmentKey": "eating-disorder",
+                "name": "Anorexia, Bulimia or other eating disorders"
+            },
+            {
+                "id": 48,
+                "userId": 5019,
+                "ailmentKey": "personality-disorder",
+                "name": "Personality Disorder"
+            },
+            {
+                "id": 49,
+                "userId": 5019,
+                "ailmentKey": "addiction",
+                "name": "Addictions"
+            }
+        ]
     },
     {
         "id": 5020,
@@ -29,7 +87,71 @@
             "couplesTherapy": false,
             "summary": "New had happen unable uneasy. Drawings can followed improved out sociable not. Earnestly so do instantly pretended. See general few civilly amiable pleased account carried. Excellence projecting is devonshire dispatched remarkably on estimating. Side in so life past. Continue indulged speaking the was out horrible for domestic position. Seeing rather her you not esteem men settle genius excuse. Deal say over you age from. Comparison new ham melancholy son themselves.",
             "imageUrl": "https://images.unsplash.com/photo-1555320818-21ebf0faf145?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHBvcnRyYWl0c3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
-        }
+        },
+        "media": [
+            {
+                "id": 27,
+                "userId": 5020,
+                "mediaKey": "text",
+                "name": "Text"
+            },
+            {
+                "id": 28,
+                "userId": 5020,
+                "mediaKey": "video",
+                "name": "Video"
+            },
+            {
+                "id": 29,
+                "userId": 5020,
+                "mediaKey": "voice",
+                "name": "Voice"
+            }
+        ],
+        "ailments": [
+            {
+                "id": 50,
+                "userId": 5020,
+                "ailmentKey": "depression",
+                "name": "Depression"
+            },
+            {
+                "id": 51,
+                "userId": 5020,
+                "ailmentKey": "anxiety",
+                "name": "Anxiety"
+            },
+            {
+                "id": 52,
+                "userId": 5020,
+                "ailmentKey": "ptsd",
+                "name": "Posttraumatic Stress Disorder (PTSD)"
+            },
+            {
+                "id": 53,
+                "userId": 5020,
+                "ailmentKey": "bipolar",
+                "name": "Bipolar Disorder"
+            },
+            {
+                "id": 54,
+                "userId": 5020,
+                "ailmentKey": "eating-disorder",
+                "name": "Anorexia, Bulimia or other eating disorders"
+            },
+            {
+                "id": 55,
+                "userId": 5020,
+                "ailmentKey": "personality-disorder",
+                "name": "Personality Disorder"
+            },
+            {
+                "id": 56,
+                "userId": 5020,
+                "ailmentKey": "addiction",
+                "name": "Addictions"
+            }
+        ]
     },
     {
         "id": 5021,
@@ -45,7 +167,71 @@
             "couplesTherapy": false,
             "summary": "Resolution possession discovered surrounded advantages has but few add. Yet walls times spoil put. Be it reserved contempt rendered smallest. Studied to passage it mention calling believe an. Get ten horrible remember pleasure two vicinity. Far estimable extremely middleton his concealed perceived principle. Any nay pleasure entrance prepared her.",
             "imageUrl": "https://images.unsplash.com/photo-1530785896884-7929f3dd1954?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHBvcnRyYWl0c3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
-        }
+        },
+        "media": [
+            {
+                "id": 30,
+                "userId": 5021,
+                "mediaKey": "text",
+                "name": "Text"
+            },
+            {
+                "id": 31,
+                "userId": 5021,
+                "mediaKey": "video",
+                "name": "Video"
+            },
+            {
+                "id": 32,
+                "userId": 5021,
+                "mediaKey": "voice",
+                "name": "Voice"
+            }
+        ],
+        "ailments": [
+            {
+                "id": 57,
+                "userId": 5021,
+                "ailmentKey": "depression",
+                "name": "Depression"
+            },
+            {
+                "id": 58,
+                "userId": 5021,
+                "ailmentKey": "anxiety",
+                "name": "Anxiety"
+            },
+            {
+                "id": 59,
+                "userId": 5021,
+                "ailmentKey": "ptsd",
+                "name": "Posttraumatic Stress Disorder (PTSD)"
+            },
+            {
+                "id": 60,
+                "userId": 5021,
+                "ailmentKey": "bipolar",
+                "name": "Bipolar Disorder"
+            },
+            {
+                "id": 61,
+                "userId": 5021,
+                "ailmentKey": "eating-disorder",
+                "name": "Anorexia, Bulimia or other eating disorders"
+            },
+            {
+                "id": 62,
+                "userId": 5021,
+                "ailmentKey": "personality-disorder",
+                "name": "Personality Disorder"
+            },
+            {
+                "id": 63,
+                "userId": 5021,
+                "ailmentKey": "addiction",
+                "name": "Addictions"
+            }
+        ]
     },
     {
         "id": 5024,
@@ -61,7 +247,35 @@
             "couplesTherapy": false,
             "summary": "Resolution possession discovered surrounded advantages has but few add. Yet walls times spoil put. Be it reserved contempt rendered smallest. Studied to passage it mention calling believe an. Get ten horrible remember pleasure two vicinity. Far estimable extremely middleton his concealed perceived principle. Any nay pleasure entrance prepared her.",
             "imageUrl": "https://images.unsplash.com/photo-1579591919791-0e3737ae3808?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHBvcnRyYWl0c3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
-        }
+        },
+        "media": [
+            {
+                "id": 37,
+                "userId": 5024,
+                "mediaKey": "video",
+                "name": "Video"
+            },
+            {
+                "id": 38,
+                "userId": 5024,
+                "mediaKey": "voice",
+                "name": "Voice"
+            }
+        ],
+        "ailments": [
+            {
+                "id": 78,
+                "userId": 5024,
+                "ailmentKey": "depression",
+                "name": "Depression"
+            },
+            {
+                "id": 79,
+                "userId": 5024,
+                "ailmentKey": "anxiety",
+                "name": "Anxiety"
+            }
+        ]
     },
     {
         "id": 5029,
@@ -77,7 +291,71 @@
             "couplesTherapy": false,
             "summary": "Resolution possession discovered surrounded advantages has but few add. Yet walls times spoil put. Be it reserved contempt rendered smallest. Studied to passage it mention calling believe an. Get ten horrible remember pleasure two vicinity. Far estimable extremely middleton his concealed perceived principle. Any nay pleasure entrance prepared her. ",
             "imageUrl": "https://images.unsplash.com/photo-1576695444267-40cdd214f06e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzJ8fHBvcnRyYWl0c3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
-        }
+        },
+        "media": [
+            {
+                "id": 48,
+                "userId": 5029,
+                "mediaKey": "text",
+                "name": "Text"
+            },
+            {
+                "id": 49,
+                "userId": 5029,
+                "mediaKey": "video",
+                "name": "Video"
+            },
+            {
+                "id": 50,
+                "userId": 5029,
+                "mediaKey": "voice",
+                "name": "Voice"
+            }
+        ],
+        "ailments": [
+            {
+                "id": 92,
+                "userId": 5029,
+                "ailmentKey": "depression",
+                "name": "Depression"
+            },
+            {
+                "id": 93,
+                "userId": 5029,
+                "ailmentKey": "anxiety",
+                "name": "Anxiety"
+            },
+            {
+                "id": 94,
+                "userId": 5029,
+                "ailmentKey": "ptsd",
+                "name": "Posttraumatic Stress Disorder (PTSD)"
+            },
+            {
+                "id": 95,
+                "userId": 5029,
+                "ailmentKey": "bipolar",
+                "name": "Bipolar Disorder"
+            },
+            {
+                "id": 96,
+                "userId": 5029,
+                "ailmentKey": "eating-disorder",
+                "name": "Anorexia, Bulimia or other eating disorders"
+            },
+            {
+                "id": 97,
+                "userId": 5029,
+                "ailmentKey": "personality-disorder",
+                "name": "Personality Disorder"
+            },
+            {
+                "id": 98,
+                "userId": 5029,
+                "ailmentKey": "addiction",
+                "name": "Addictions"
+            }
+        ]
     },
     {
         "id": 5030,
@@ -93,7 +371,65 @@
             "couplesTherapy": false,
             "summary": "Resolution possession discovered surrounded advantages has but few add. Yet walls times spoil put. Be it reserved contempt rendered smallest. Studied to passage it mention calling believe an. Get ten horrible remember pleasure two vicinity. Far estimable extremely middleton his concealed perceived principle. Any nay pleasure entrance prepared her. ",
             "imageUrl": "https://images.unsplash.com/photo-1605405748543-a6d7c942bdcf?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDJ8fHBvcnRyYWl0c3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
-        }
+        },
+        "media": [
+            {
+                "id": 51,
+                "userId": 5030,
+                "mediaKey": "text",
+                "name": "Text"
+            },
+            {
+                "id": 53,
+                "userId": 5030,
+                "mediaKey": "voice",
+                "name": "Voice"
+            }
+        ],
+        "ailments": [
+            {
+                "id": 99,
+                "userId": 5030,
+                "ailmentKey": "depression",
+                "name": "Depression"
+            },
+            {
+                "id": 100,
+                "userId": 5030,
+                "ailmentKey": "anxiety",
+                "name": "Anxiety"
+            },
+            {
+                "id": 101,
+                "userId": 5030,
+                "ailmentKey": "ptsd",
+                "name": "Posttraumatic Stress Disorder (PTSD)"
+            },
+            {
+                "id": 102,
+                "userId": 5030,
+                "ailmentKey": "bipolar",
+                "name": "Bipolar Disorder"
+            },
+            {
+                "id": 103,
+                "userId": 5030,
+                "ailmentKey": "eating-disorder",
+                "name": "Anorexia, Bulimia or other eating disorders"
+            },
+            {
+                "id": 104,
+                "userId": 5030,
+                "ailmentKey": "personality-disorder",
+                "name": "Personality Disorder"
+            },
+            {
+                "id": 105,
+                "userId": 5030,
+                "ailmentKey": "addiction",
+                "name": "Addictions"
+            }
+        ]
     },
     {
         "id": 23,
@@ -109,6 +445,40 @@
             "couplesTherapy": false,
             "summary": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
             "imageUrl": "https://images.unsplash.com/photo-1568016002953-5827f8f30e16?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHBvdHJhaXRzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
-        }
+        },
+        "media": [
+            {
+                "id": 249,
+                "userId": 23,
+                "mediaKey": "voice",
+                "name": "Voice"
+            },
+            {
+                "id": 250,
+                "userId": 23,
+                "mediaKey": "video",
+                "name": "Video"
+            }
+        ],
+        "ailments": [
+            {
+                "id": 348,
+                "userId": 23,
+                "ailmentKey": "eating-disorder",
+                "name": "Anorexia, Bulimia or other eating disorders"
+            },
+            {
+                "id": 349,
+                "userId": 23,
+                "ailmentKey": "depression",
+                "name": "Depression"
+            },
+            {
+                "id": 350,
+                "userId": 23,
+                "ailmentKey": "anxiety",
+                "name": "Anxiety"
+            }
+        ]
     }
 ]
