@@ -8,7 +8,7 @@ COPY package.json yarn.lock /app/
 RUN yarn install --silent
 COPY . /app
 COPY .env.production /app/.env
-RUN yarn mesh build
+RUN yarn mesh build --require ./env.js
 
 
 FROM node:14-alpine
@@ -16,6 +16,7 @@ WORKDIR /app
 COPY package.json yarn.lock ./
 RUN yarn install --prod
 COPY --from=build /app/ .
+RUN yarn global add pm2 
 EXPOSE 8082
 
-CMD ["sh", "-c", "yarn mesh start --require ./env.js"]
+CMD ["sh", "-c", "pm2-runtime start ecosystem.config.js"]
