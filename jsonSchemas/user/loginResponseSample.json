@@ -1,55 +1,58 @@
 {
-    "id": 9,
-    "name": "Jamal Habib",
-    "email": "jamal@gmail.com",
-    "userType": "patient",
-    "createdAt": "2021-07-05T13:58:15.445Z",
-    "settings": {
-        "media": [
-            {
-                "id": 349,
-                "userId": 9,
-                "mediaKey": "voice"
-            },
-            {
-                "id": 350,
-                "userId": 9,
-                "mediaKey": "video"
-            }
-        ],
-        "ailments": [
-            {
-                "id": 520,
-                "userId": 9,
-                "ailmentKey": "anxiety"
-            },
-            {
-                "id": 521,
-                "userId": 9,
-                "ailmentKey": "bipolar"
-            },
-            {
-                "id": 522,
-                "userId": 9,
-                "ailmentKey": "eating-disorder"
-            },
-            {
-                "id": 523,
-                "userId": 9,
-                "ailmentKey": "ptsd"
-            },
-            {
-                "id": 524,
-                "userId": 9,
-                "ailmentKey": "addiction"
-            },
-            {
-                "id": 525,
-                "userId": 9,
-                "ailmentKey": "personality-disorder"
-            }
-        ],
-        "religiousTherapy": "christian",
-        "couplesTherapy": true
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjksImlhdCI6MTYzMjI5NTkzNCwiZXhwIjoxNjMyMzEwMzM0fQ.XL71X1yLxmiFYOdPl-lf9XY0mbbdI4-3eHzGD8XKyPs",
+    "user": {
+        "id": 9,
+        "name": "Jamal Habib",
+        "email": "jamal@gmail.com",
+        "userType": "patient",
+        "createdAt": "2021-07-05T13:58:15.445Z",
+        "settings": {
+            "media": [
+                {
+                    "id": 349,
+                    "userId": 9,
+                    "mediaKey": "voice"
+                },
+                {
+                    "id": 350,
+                    "userId": 9,
+                    "mediaKey": "video"
+                }
+            ],
+            "ailments": [
+                {
+                    "id": 520,
+                    "userId": 9,
+                    "ailmentKey": "anxiety"
+                },
+                {
+                    "id": 521,
+                    "userId": 9,
+                    "ailmentKey": "bipolar"
+                },
+                {
+                    "id": 522,
+                    "userId": 9,
+                    "ailmentKey": "eating-disorder"
+                },
+                {
+                    "id": 523,
+                    "userId": 9,
+                    "ailmentKey": "ptsd"
+                },
+                {
+                    "id": 524,
+                    "userId": 9,
+                    "ailmentKey": "addiction"
+                },
+                {
+                    "id": 525,
+                    "userId": 9,
+                    "ailmentKey": "personality-disorder"
+                }
+            ],
+            "religiousTherapy": "christian",
+            "couplesTherapy": true
+        }
     }
 }

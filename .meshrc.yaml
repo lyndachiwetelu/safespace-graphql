@@ -5,7 +5,8 @@ sources:
         baseUrl: ${BASE_URL}
         operationHeaders:
           Content-Type: application/json
-          Authorization: Bearer {context.headers['api-token']}
+          Authorization: Bearer {context.headers['access-token']}
+          mobile: "true"
         operations:
           - type: Query
             field: getTherapists
