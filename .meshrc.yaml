@@ -46,16 +46,22 @@ sources:
             method: GET
             responseSample: ./jsonSchemas/session/sessionMessagesSample.json
 
-          - type: Query
+          - type: Mutation
             field: saveSessionMessage
             path: /sessions/{args.id}/messages
-            method: GET
+            method: POST
             requestSample: ./jsonSchemas/session/saveSessionMessageRequestSample.json
             responseSample: ./jsonSchemas/session/saveSessionMessageResponseSample.json
          
           - type: Query
             field: getAvailabilitiesForUser
             path: /availabilities/{args.userId}
+            method: GET
+            responseSample: ./jsonSchemas/availability/availabilitiesResponseSample.json
+          
+          - type: Query
+            field: getAvailabilitiesForUserByDay
+            path: /availabilities/{args.userId}?day={args.day}
             method: GET
             responseSample: ./jsonSchemas/availability/availabilitiesResponseSample.json
 
