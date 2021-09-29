@@ -1,11 +1,8 @@
 FROM node:14-alpine as build
 
 WORKDIR /app
-
 COPY package.json yarn.lock /app/
-
-
-RUN yarn install --silent
+RUN yarn install --prod --silent
 COPY . /app
 COPY .env.production /app/.env
 RUN yarn mesh build --require ./env.js
@@ -13,8 +10,6 @@ RUN yarn mesh build --require ./env.js
 
 FROM node:14-alpine
 WORKDIR /app
-COPY package.json yarn.lock ./
-RUN yarn install --prod
 COPY --from=build /app/ .
 RUN yarn global add pm2 
 EXPOSE 8082
