@@ -1,5 +1,5 @@
 sources:
-  - name: Safespace API
+  - name: Safespace GraphQL API
     handler:
       jsonSchema:
         baseUrl: ${BASE_URL}
